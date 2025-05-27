@@ -52,6 +52,7 @@ Developed as part of our senior project at the **Faculty of Science, Department 
 ├── docs/                   # Project documentation
 ├── public/                 # Static assets
 └── README.md               # You are here
+```
 
 ## Supervisor
 
