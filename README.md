@@ -37,7 +37,7 @@ Developed as part of our senior project at the **Faculty of Science, Department 
 ##  Architecture
 
 - **Modular MVC** using Laravel for backend logic and secure RESTful APIs.
-- **Component-based UI** using React for dynamic rendering and a mobile-first design.
+- **Component-based UI** using React for dynamic rendering and a mobile first design.
 - **Token-based authentication** with protected routes and role-based access.
 
 ---
