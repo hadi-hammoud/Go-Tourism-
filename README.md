@@ -10,14 +10,14 @@ Developed as part of our senior project at the **Faculty of Science, Department 
 
 ##  Features
 
-- 🧠 **AI-Powered Chatbot** – Real-time travel assistant with natural language support.
-- 🗺️ **Interactive Maps** – Visual discovery of nearby attractions and destinations.
-- 🎯 **Smart Recommendations** – Personalized suggestions based on user preferences and behavior.
-- 🏨 **Bookings & Tickets** – Book destinations, events, and services directly in-app.
-- 📍 **Local Business Integration** – Connects travelers with local guesthouses, restaurants, guides, and artisans.
-- 📸 **Media-Rich Listings** – Each destination features photos, reviews, and ratings.
-- 📅 **Real-Time Event Alerts** – Notifications for festivals, installations, and happenings.
-- 🗂️ **Multi-Language Support** – Available in Arabic and English.
+-  **AI-Powered Chatbot** – Real-time travel assistant with natural language support.
+-  **Interactive Maps** – Visual discovery of nearby attractions and destinations.
+-  **Smart Recommendations** – Personalized suggestions based on user preferences and behavior.
+-  **Bookings & Tickets** – Book destinations, events, and services directly in-app.
+-  **Local Business Integration** – Connects travelers with local guesthouses, restaurants, guides, and artisans.
+-  **Media-Rich Listings** – Each destination features photos, reviews, and ratings.
+-  **Real-Time Event Alerts** – Notifications for festivals, installations, and happenings.
+-  **Multi-Language Support** – Available in Arabic and English.
 
 ---
 
